@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rohitkumar9112007.github.io/GramSetu/sitemap.xml

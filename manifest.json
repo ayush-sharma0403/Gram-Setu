@@ -1,0 +1,65 @@
+{
+  "name": "GramSetu - Rural Lifeline & Utility Intelligence",
+  "short_name": "GramSetu",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF6EC",
+  "theme_color": "#102133",
+  "description": "Pan-India rural civic-tech platform for live GPS water tanker tracking, AI electricity outage predictions, Jan Aushadhi generic medicines, and offline resilience.",
+  "orientation": "any",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "categories": ["government", "utilities", "health", "social"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./logo.png",
+      "sizes": "447x447",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Track Water Tanker",
+      "short_name": "Water",
+      "description": "Track moving water tanker GPS & capacity",
+      "url": "./index.html#water",
+      "icons": [{ "src": "./icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Power Cut Forecast",
+      "short_name": "Power",
+      "description": "Check electricity load-shedding predictor",
+      "url": "./index.html#power",
+      "icons": [{ "src": "./icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Jan Aushadhi Medicines",
+      "short_name": "Medicines",
+      "description": "Scan prescription or search generic drugs",
+      "url": "./index.html#medicine",
+      "icons": [{ "src": "./icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Emergency SOS",
+      "short_name": "SOS",
+      "description": "Immediate village emergency broadcast",
+      "url": "./index.html#sos",
+      "icons": [{ "src": "./icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

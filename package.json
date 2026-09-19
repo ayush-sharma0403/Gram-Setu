@@ -1,0 +1,12 @@
+{
+  "name": "lpu-food-otp-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LPU Food static app with server-backed OTP delivery",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
