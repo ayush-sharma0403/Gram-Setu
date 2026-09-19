@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 GramSetu (ग्रामसेतु)
 ### Pan-India Rural Lifeline & Utility Intelligence Platform
 
@@ -70,3 +71,7 @@
 
 ## 📜 License
 Developed for College Hackathons and Rural Empowerment. Open source for community public benefit.
+=======
+# Gram-Setu
+A Project based on all village/small town problems 
+>>>>>>> f4a97c3df4cc14aee7b210155678024e2a31f8a7
